@@ -15,7 +15,7 @@ class KCFABWindow: UIWindow {
     override init(frame: CGRect) {
         super.init(frame: frame)
         
-        self.backgroundColor = UIColor.clear()
+        self.backgroundColor = UIColor.clear
         self.windowLevel = UIWindowLevelStatusBar
     }
 
